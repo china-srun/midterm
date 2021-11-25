@@ -1,0 +1,34 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar{
+  text-align: center;
+}
+
+.container img{
+  height: 70px;
+}
+
+
+.navbar ul li a:hover{
+  color: red !important;
+}
+
+.slide{
+  position: relative;
+}
+
+.slide-pic img{
+  height: 45rem;
+}
+
+.vc-img img{
+  width: 250px;
+  height: 184px; 
+}
+
+ 
+
+
+
